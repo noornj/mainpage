@@ -27,7 +27,7 @@ Here’s a collection of my labs and projects, categorized by topics. Feel free 
 ### Cloud & DevOps
 | Project/Lab Name | Description | Technologies Used | Link |
 |------------------|-------------|-------------------|------|
-| [Project 1](#) | Kafka home lab - exploring the concepts and building functioning lab. | Kafka, Python, Docker, Virtalization, Linux | [View Project] (#https://gist.github.com/noornj/a578401795059922f5eb9f0499e5b64d) |
+| [Project 1](#) | Kafka home lab - exploring the concepts and building functioning lab. | Kafka, Python, Docker, Virtalization, Linux | [View Project] (https://gist.github.com/noornj/a578401795059922f5eb9f0499e5b64d#) |
 | [Project 2](#) | A brief description of the project. | Terraform, Jenkins | [View Repo](#) |
 
 ---
