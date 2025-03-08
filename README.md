@@ -1,12 +1,12 @@
 # Welcome to My Tech Labs and Projects Hub! 🚀
 
-![Banner Image](https://via.placeholder.com/1200x400)  
-*Caption: A creative banner image representing your work (e.g., coding, technology, or innovation).*
+![Banner Image](https://images.freeimages.com/vhq/images/istock/previews/9972/99727801-abstract-technology-web-header-banner.jpg?fmt=webp&h=350)  
+
 
 ---
 
 ## About Me 👋
-Hi, I'm **[Your Name]**, a [your role, e.g., software developer, IT enthusiast, student] passionate about [your interests, e.g., building scalable systems, exploring AI, or solving real-world problems]. This GitHub page serves as a central hub for my labs, projects, and explorations in the world of technology.
+Hi, I'm **[Your Name]**, a IT enthusiast, with telecom background] passionate about [building scalable systems, exploring AI, or solving real-world problems]. This GitHub page serves as a central hub for my labs, projects, and explorations in the world of technology.
 
 ---
 
