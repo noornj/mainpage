@@ -14,14 +14,23 @@ Hi, I'm **[Your Name]**, a IT enthusiast, with telecom background] passionate ab
 Here’s a collection of my labs and projects, categorized by topics. Feel free to explore and dive into the details!
 
 ### � **Categories**
+
+- [**Cloud & DevOps**](#cloud--devops)
+- [**Miscellaneous**](#miscellaneous)
 - [**Web Development**](#web-development)
 - [**Data Science & Machine Learning**](#data-science--machine-learning)
-- [**Cloud & DevOps**](#cloud--devops)
-- [**Cybersecurity**](#cybersecurity)
-- [**Miscellaneous**](#miscellaneous)
 
 ---
 
+
+
+### Cloud & DevOps
+| Project/Lab Name | Description | Technologies Used | Link |
+|------------------|-------------|-------------------|------|
+| [Project 1](#) | Kafka home lab - exploring the concepts and building functioning lab. | Kafka, Python, Docker, Virtalization, Linux | [View Repo]([#](https://gist.github.com/noornj/a578401795059922f5eb9f0499e5b64d)) |
+| [Project 2](#) | A brief description of the project. | Terraform, Jenkins | [View Repo](#) |
+
+---
 ### Web Development
 | Project/Lab Name | Description | Technologies Used | Link |
 |------------------|-------------|-------------------|------|
@@ -36,21 +45,6 @@ Here’s a collection of my labs and projects, categorized by topics. Feel free 
 | [Project 1](#) | A brief description of the project. | Python, Pandas, Scikit-learn | [View Repo](#) |
 | [Project 2](#) | A brief description of the project. | TensorFlow, Keras | [View Repo](#) |
 
----
-
-### Cloud & DevOps
-| Project/Lab Name | Description | Technologies Used | Link |
-|------------------|-------------|-------------------|------|
-| [Project 1](#) | A brief description of the project. | AWS, Docker, Kubernetes | [View Repo](#) |
-| [Project 2](#) | A brief description of the project. | Terraform, Jenkins | [View Repo](#) |
-
----
-
-### Cybersecurity
-| Project/Lab Name | Description | Technologies Used | Link |
-|------------------|-------------|-------------------|------|
-| [Project 1](#) | A brief description of the project. | Wireshark, Metasploit | [View Repo](#) |
-| [Project 2](#) | A brief description of the project. | Burp Suite, Nmap | [View Repo](#) |
 
 ---
 
