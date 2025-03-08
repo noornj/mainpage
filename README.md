@@ -6,7 +6,7 @@
 ---
 
 ## About Me 👋
-Hi, I'm **[Your Name]**, a IT enthusiast, with telecom background] passionate about [building scalable systems, exploring AI, or solving real-world problems]. This GitHub page serves as a central hub for my labs, projects, and explorations in the world of technology.
+Hi, I'm **Noor Saif**, a IT enthusiast, with telecom background] passionate about [building scalable systems, exploring AI, or solving real-world problems]. This GitHub page serves as a central hub for my labs, projects, and explorations in the world of technology.
 
 ---
 
@@ -46,13 +46,7 @@ Here’s a collection of my labs and projects, categorized by topics. Feel free 
 | [Project 2](#) | A brief description of the project. | TensorFlow, Keras | [View Repo](#) |
 
 
----
 
-### Miscellaneous
-| Project/Lab Name | Description | Technologies Used | Link |
-|------------------|-------------|-------------------|------|
-| [Project 1](#) | A brief description of the project. | [Tech Used] | [View Repo](#) |
-| [Project 2](#) | A brief description of the project. | [Tech Used] | [View Repo](#) |
 
 ---
 
@@ -64,14 +58,6 @@ Here are some of my favorite projects:
 *Caption: A short description of the project.*  
 [View Repo](#) | [Live Demo](#)
 
----
-
-## Blog Posts and Tutorials ✍️
-I also write about my learnings and experiences. Check out my blog posts and tutorials:
-
-- [How I Built a Real-Time Chat App Using Socket.io](#)
-- [Getting Started with Machine Learning in Python](#)
-- [A Beginner’s Guide to Docker and Kubernetes](#)
 
 ---
 
@@ -81,7 +67,7 @@ Here are some of the tools and technologies I frequently work with:
 - **Programming Languages**: Python, PHP, Java
 - **Frameworks**: Django
 - **Databases**: MySQL
-- **DevOps Tools**: Docker, Kubernetes, Jenkins
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, Kafka
 
 ---
 
