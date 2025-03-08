@@ -28,13 +28,13 @@ Here’s a collection of my labs and projects, categorized by topics. Feel free 
 | Project/Lab Name | Description | Technologies Used | Link |
 |------------------|-------------|-------------------|------|
 | [Project 1](#) | Kafka home lab - exploring the concepts and building functioning lab. | Kafka, Python, Docker, Virtalization, Linux |[View Project](https://gist.github.com/noornj/a578401795059922f5eb9f0499e5b64d#) |
-| [Project 2](#) | A brief description of the project. | Terraform, Jenkins | [View Repo](#) |
+
 
 ---
 ### Web Development
 | Project/Lab Name | Description | Technologies Used | Link |
 |------------------|-------------|-------------------|------|
-| [Project 1](#) | A brief description of the project. | HTML, CSS, JavaScript | [View Repo](#) |
+| [Rajetah](#) | A simple web based medical presecription application for patient admittion and historical medication record. | HTML, CSS (bootstrap), JavaScript, PHP, MySQL, ApacheHTTP | Privately published |
 | [Project 2](#) | A brief description of the project. | React, Node.js, MongoDB | [View Repo](#) |
 
 ---
